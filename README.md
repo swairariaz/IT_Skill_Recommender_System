@@ -1,9 +1,19 @@
 <div align="center">
   <h1>🚀 SkillSwapGPT</h1>
-  <h3>IT Skill Recommendation Engine</h3>
-  
-  <!-- Demo Video -->
-  <iframe width="700" height="394" src="[https://www.youtube.com/embed/YOUR_ID](https://youtu.be/Ap_Q9KL5HEo?si=S_C-ISur9L2XIZVr)" frameborder="0" allowfullscreen></iframe>
+  <h3>AI-Powered IT Skill Recommender System</h3>
+
+  <!-- YouTube Video Embed -->
+  <div style="width: 100%; max-width: 700px; margin: 20px auto;">
+    <iframe 
+      width="100%" 
+      height="394" 
+      src="https://youtu.be/Ap_Q9KL5HEo?si=S_C-ISur9L2XIZVr" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen
+      style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </iframe>
+  </div>
 </div>
 
 ## 🔍 Introduction
