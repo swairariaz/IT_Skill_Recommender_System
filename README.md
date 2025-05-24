@@ -4,15 +4,16 @@
 
   ## 📺 Demo
 
-<iframe 
-    width="100%" 
-    height="394" 
-    src="https://www.youtube.com/embed/Ap_Q9KL5HEo" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen
-    style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </iframe>
+<div align="center" style="margin: 2rem 0;">
+  <a href="https://www.youtube.com/watch?v=Ap_Q9KL5HEo" target="_blank">
+    <img 
+      src="https://img.youtube.com/vi/Ap_Q9KL5HEo/maxresdefault.jpg" 
+      alt="SkillSwapGPT Demo" 
+      style="width:100%; max-width:800px; border-radius:8px; cursor:pointer; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"
+    >
+    <br>
+  </a>
+</div>
 </div>
 
 ## 🔍 Introduction
