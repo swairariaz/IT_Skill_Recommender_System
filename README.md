@@ -4,18 +4,15 @@
 
   ## 📺 Demo
 
-<!-- YouTube Video Embed -->
-  <div style="width: 100%; max-width: 700px; margin: 20px auto;">
-    <iframe 
-      width="100%" 
-      height="394" 
-      src="https://youtu.be/Ap_Q9KL5HEo" 
-      frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen
-      style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    </iframe>
-  </div>
+<iframe 
+    width="100%" 
+    height="394" 
+    src="https://www.youtube.com/embed/Ap_Q9KL5HEo" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+    style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </iframe>
 </div>
 
 ## 🔍 Introduction
