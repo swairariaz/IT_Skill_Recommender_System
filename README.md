@@ -7,7 +7,7 @@
     <iframe 
       width="100%" 
       height="394" 
-      src="https://youtu.be/Ap_Q9KL5HEo?si=S_C-ISur9L2XIZVr" 
+      src="https://youtu.be/Ap_Q9KL5HEo" 
       frameborder="0" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
       allowfullscreen
