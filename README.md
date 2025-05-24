@@ -4,12 +4,18 @@
 
   ## 📺 Demo
 
-<p align="center">
-  <a href="https://youtu.be/Ap_Q9KL5HEo">
-    <img src="https://www.youtube.com/watch?v=Ap_Q9KL5HEo" alt="Watch on YouTube" width="700"/>
-  </a>
-</p>
-> Click the image to watch the full demo on YouTube.
+<!-- YouTube Video Embed -->
+  <div style="width: 100%; max-width: 700px; margin: 20px auto;">
+    <iframe 
+      width="100%" 
+      height="394" 
+      src="https://youtu.be/Ap_Q9KL5HEo" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen
+      style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </iframe>
+  </div>
 </div>
 
 ## 🔍 Introduction
