@@ -3,8 +3,7 @@
   <h3>IT Skill Recommendation Engine</h3>
   
   <!-- Demo Video -->
-  <video src="demo.mp4" width="700" controls style="border-radius: 8px; margin: 20px 0;">
-  </video>
+  <iframe width="700" height="394" src="[https://www.youtube.com/embed/YOUR_ID](https://youtu.be/Ap_Q9KL5HEo?si=S_C-ISur9L2XIZVr)" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## 🔍 Introduction
